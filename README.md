@@ -1,5 +1,9 @@
 # quake-clone
 
+<img width="657" alt="quake1" src="https://github.com/lukegriley/quake-clone/assets/70218073/ec65f697-8ecc-4a7e-8d2e-786e16e6f55c">
+
+<img width="666" alt="quake2" src="https://github.com/lukegriley/quake-clone/assets/70218073/9c2ca7f9-9616-4ea2-bfd5-5f4efcaacdec">
+
 
 How to run:
 
